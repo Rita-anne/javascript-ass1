@@ -19,7 +19,7 @@ const startB=(a)=>{
     }
 }
 console.log(colors1.find(startB))
-// Finally, transform all elements of the colors array to uppercase using the toUpperCase() method.
+//finally,transform all elements of the colors array to uppercase using the toUpperCase() method.
 const colors2 = ['red','green','blue','yellow','orange']
 const changed=colors2.toString().toUpperCase()
 console.log(changed)
